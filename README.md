@@ -1,7 +1,1 @@
-# pinguimgame
-
-Ficheiros:
-
-character.png
-exercicio5.html
-screen.png
+João Carlos Fernandes Luís Nave Sardinha
